@@ -1,7 +1,21 @@
 ## Hi there 👋
+A Little more about me 
+/code 
 
-- ![Static Badge](https://img.shields.io/badge/I-like_you-brightgreen?style=flat&logo=test%20logo)
+<!-- Core Keyword : 일상의 자동화 -->
+Languages
+- korean
+- English
 
+**My go-to coding language 🔥💻**
+- C/C++ : 
+- Python : 
+**My fave Tool 💻💙**
+- ![Static Badge](https://img.shields.io/badge/langchain-ai-pink)
+  ![Static Badge](https://img.shields.io/badge/n8n-ai-pink)
+  ![Static Badge](https://img.shields.io/badge/crewai-ai-pink)
+  
+- 
 
 <!--
 **supperhappie/supperhappie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
