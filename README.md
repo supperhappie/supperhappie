@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- https://img.shields.io/badge/any_text-you_like-blue
-- ![Static Badge](https://img.shields.io/badge/TestBadge?style=flat&logo=test%20logo)
+- ![Static Badge](https://img.shields.io/badge/I-like_you-brightgreen?style=flat&logo=test%20logo)
 
 
 <!--
