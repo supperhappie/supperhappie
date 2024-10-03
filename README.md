@@ -2,6 +2,29 @@
 A Little more about me 
 /code 
 
+<div>
+  <button onclick="showContent('english')">English</button>
+  <button onclick="showContent('korean')">Korean</button>
+</div>
+
+<div id="english" style="display:block;">
+  <h2>English</h2>
+  <p>This is the English content.</p>
+</div>
+
+<div id="korean" style="display:none;">
+  <h2>한국어</h2>
+  <p>이것은 한국어 콘텐츠입니다.</p>
+</div>
+
+<script>
+  function showContent(language) {
+    document.getElementById('english').style.display = language === 'english' ? 'block' : 'none';
+    document.getElementById('korean').style.display = language === 'korean' ? 'block' : 'none';
+  }
+</script>
+
+
 <!-- Core Keyword : 일상의 자동화 -->
 Languages
 - korean
