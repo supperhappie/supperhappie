@@ -1,6 +1,5 @@
 ## Hi there 👋
 A Little more about me 
-/code 
 
 <div>
   <button onclick="showContent('english')">English</button>
